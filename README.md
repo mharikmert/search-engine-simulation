@@ -9,7 +9,7 @@ It is a small-scale search engine for words.
 
 ## How to use
 You can add the texts and files that to be searched for to files folder. <br>
-You can also changed the number of documents that contains the word are displayed after the searching. <br> 
+You can also change the number of documents that contains the word are displayed after the searching. <br> 
 
 ![Screenshot from 2021-03-15 20-40-19](https://user-images.githubusercontent.com/42295478/111196927-e82db980-85ce-11eb-81be-adee0896a502.png)
 
